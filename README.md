@@ -4,7 +4,7 @@
 **Problem Statement:** Many people struggle with picking outfits that suit their style, occasion, and personal preferences. OOTD.AI will simplify this by offering AI-driven outfit suggestions
 
 ## Features & Functionality
-Core Features
+**Core Features**
 1. AI-powered Outfit Recommendations (Future)
    - Suggest outfits based on user preferences (color, season, occasion, trends)
    - Allows user to like/dislike outfits to refine recommendations
