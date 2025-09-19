@@ -20,5 +20,28 @@
    - Users can upload images of their clothes, and AI will suggest matching pieces
    - User uploads pictures of their clothes
    - AI then suggests outfit combinations based on recognized wardrobe items
-   - Requires a trained fashion recognition model (e.g CNN's for image classification) 
+   - Requires a trained fashion recognition model (e.g CNN's for image classification)
+
+
+## Target Audience
+- College Students looking for outfit ideas
+- Fashion enthusiasts who want trend-based suggestions
+- People with decision fatigue needing quick outfit recommendations
+
+
+## Technical Requirements
+OOTD-AI/
+|-backend/
+|-frontend/
+|-data/
+|-models/
+|-notebooks/
+|-scripts
+|-tests
+|-docs/
+|-config.py
+|-requirements.txt
+
+
+
 
