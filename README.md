@@ -43,5 +43,35 @@ OOTD-AI/
 |-requirements.txt
 
 
+##Survey Questions
+1. What's your main style vibe?
+   •	Streetwear
+	•	Casual
+	•	Business casual
+	•	Formal
+	•	Athleisure
+2. What fits do you like most?
+   •	Oversized / relaxed
+	•	Regular fit
+	•	Slim / fitted
+3. What colors do you wear the most?
+   •	Neutrals (black/white/grey)
+	•	Earth tones (brown, green, tan)
+	•	Bright colors
+	•	Pastels
+4. How do you dress for class most days?
+   •	Super comfy (hoodies, sweats)
+	•	Clean casual (jeans, cargos, tees)
+	•	Slightly dressed up (chinos, polos, sweaters)
+5. How bold do you want your outfits to be?
+   •	Low-key
+	•	Medium
+	•	I don’t mind standing out
+6. What climate are you usually in?
+   •	Mostly warm
+	•	Mixed
+	•	Mostly cold
+
+
 
 
